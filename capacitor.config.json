@@ -2,6 +2,6 @@
 {
   "appId": "com.gudermes.razvitie",
   "appName": "Гудермес — Развитие",
-  "webDir": ".",
+  "webDir": "www",
   "bundledWebRuntime": false
 }
