@@ -1,0 +1,16 @@
+
+{
+  "name": "gudermes-razvitie",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Гудермес — Развитие",
+  "scripts": {
+    "build": "echo Web game ready"
+  },
+  "dependencies": {
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
